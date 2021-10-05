@@ -34,7 +34,7 @@ If You decide to register through or otherwise grant us access to a Third-Party 
 
 You may also have the option of sharing additional information with us through Your Third-Party Social Media Service's account. If You choose to provide such information and Personal Data, during registration or otherwise, You are giving the our permission to use, share, and store it in a manner consistent with this Privacy Policy.
 
-# Information Collection and Use
+# Collecting and Using Your Personal Data
 
 ## Types of Data Collected
 
@@ -60,7 +60,7 @@ When You access the Service by or through a mobile device, We may collect certai
 
 We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
 
-The app does use third party services that may collect information used to identify you.
+The app does use third party services that may collect information used to identify you and analytics.
 
 Link to privacy policy of third party service providers used by the app
 
